@@ -1,10 +1,7 @@
-<div align="center">
-<a href="https://rocket-maths.com/"><img alt="Astronaut from Rocket Maths" width="680px" src='src/assets/images/rocket-maths-readme-cover.png'></a>
-</div>
 
 <h1 align="center">🚀 Rocket Maths</h1>
 <h3 align="center">
-  A beautiful way to learn mental maths, <a href="https://www.rocket-maths.com">made by Joel</a>.
+  A beautiful way to learn mental maths, <a href="https://www.rocket-maths.com">made by Ayush</a>.
 </h3>
 
 <br/>
