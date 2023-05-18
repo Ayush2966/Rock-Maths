@@ -1,17 +1,17 @@
 
-<h1 align="center">🚀 Rocket Maths</h1>
+<h1 >🚀 Rocket Maths</h1>
 
 
 
 <br/>
 
-### 🧑‍💻 Tech Stack
+## 🧑‍💻 Tech Stack
 
 -   [React](https://github.com/facebook/react) - Framework
 -   [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Component Library
 -   [Framer Motion](https://github.com/framer/motion) - Animation Library
 
-### 🗄 Folder Structure
+## 🗄 Folder Structure
 
         frontend
         └── src                     #Source Folder
