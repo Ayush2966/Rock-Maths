@@ -1,8 +1,7 @@
 
 <h1 align="center">🚀 Rocket Maths</h1>
-<h3 align="center">
-  A beautiful way to learn mental maths, <a href="https://www.rocket-maths.com">made by Ayush</a>.
-</h3>
+
+
 
 <br/>
 
