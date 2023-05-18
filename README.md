@@ -42,11 +42,8 @@
             ├── App.js
             └── index.js
 
-## 👩‍⚖️ License
 
-Copyright © 2014-present Joel Mascarenhas. This source code is licensed under the MIT license found in the
-[LICENSE](https://github.com/joelm-code/rocket-maths/) file.
 
 ---
 
-<sup>Made with ♥ by Joel Mascarenhas.</sup>
+<sup>Made with ♥ by Ayush Jain</sup>
