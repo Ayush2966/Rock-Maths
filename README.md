@@ -1,5 +1,6 @@
 
-<h1 >🚀 Rocket Maths</h1>
+<h1 >🚀 Rock-Maths</h1>
+A tool to learn maths in a simple and fun way.
 
 
 
